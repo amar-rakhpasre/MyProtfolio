@@ -32,7 +32,7 @@ function App() {
     </>
   );
 }
-
+//webseit name(link):- https://dappnavigator.netlify.app/
 export default App;
 
 
